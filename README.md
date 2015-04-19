@@ -14,7 +14,9 @@ Alt: bomb
 CREDITS
 
 Code: @kedumebits
+
 Gfx: @kedumebits
+
 Sound: mediateca.educa.madrid.org 
 
 http://mediateca.educa.madrid.org/audio/reproducir.php?id_audio=5nq1e8wm66v12a5g
